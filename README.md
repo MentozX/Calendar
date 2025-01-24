@@ -7,4 +7,6 @@ Logout - Przycisk odpowiedzialny za wylogowanie uzytkownika
 Po wejsciu do aplikacji nalezy kliknac przycisk "register now" i zarejestrowac się
 Strona dzieli między wszystkich uzytkownikow wszystkie zapisane zadania
 Na dziale Calendar, istnieje mozliwosc dodawania zadan (Add task), usuwania ich (delete), edytowania (edit), 
-Podczas tworzenia zadania nalezy wybrac typ zadania i krotko go opisac
+Podczas tworzenia zadania nalezy wybrac typ zadania i krotko go opisac  
+
+Do zapisywania i przechowywania danych została wykorzystana usługa Firebase
