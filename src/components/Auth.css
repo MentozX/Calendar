@@ -1,0 +1,18 @@
+.register-link {
+    margin-top: 15px;
+    text-align: center;
+  }
+  
+  .register-button {
+    color: white;
+    background-color: #007bff;
+    padding: 8px 15px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .register-button:hover {
+    background-color: #0056b3;
+  }
+  
